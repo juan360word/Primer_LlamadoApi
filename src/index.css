@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+html{
+    font-size: 62.5%;
+}
+body{
+    background-image: url('/public/bg_clima.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-size: 5rem;
+}
